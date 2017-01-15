@@ -1,0 +1,5 @@
+<?php
+
+// cmsXj Web Config
+
+?>

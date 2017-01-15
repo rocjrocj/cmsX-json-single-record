@@ -1,0 +1,19 @@
+{
+    "cmsXj-content": [
+        {
+            "xTitle": "This Is My Header",
+            "xSubTitle": "This Is My SubHeader",
+            "xContent": "<p style=\"text-align: left;\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil mollitia qui eveniet ipsa natus quaerat cum voluptas esse praesentium, eum, rerum inventore ducimus aliquid dolores necessitatibus, eos sit totam? Error!<\/p>\r\n<p style=\"text-align: left;\">Perferendis blanditiis, alias eius atque eos aperiam. Iste impedit vitae, dolorem atque necessitatibus autem et velit dolor consequuntur nesciunt rerum accusantium officiis placeat quia alias sequi. Asperiores sunt quod adipisci?<\/p>",
+            "xCreated": {
+                "date": "2017-01-15 16:53:12.000000",
+                "timezone_type": 3,
+                "timezone": "America\/Chicago"
+            },
+            "xModified": {
+                "date": "2017-01-15 16:53:12.000000",
+                "timezone_type": 3,
+                "timezone": "America\/Chicago"
+            }
+        }
+    ]
+}
